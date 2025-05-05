@@ -35,7 +35,7 @@ Install the required Python libraries:
 
 
 ## 🚀 How to Run
-
+``
 1. Place your noisy grayscale image (e.g., xray_motion_blur.png) in the same directory as the notebook.
 2. Open denoise_image.ipynb using Jupyter Notebook or VS Code.
 3. Run the notebook step by step to apply denoising techniques.
@@ -49,6 +49,12 @@ Install the required Python libraries:
 | BM3D              | Excellent for Gaussian noise                     |
 | Wavelet Denoising | Preserves image structure, suppresses soft noise |
 | Wiener Filtering  | Effective for motion blur and linear noise       |
+
+## 📷 Output Preview
+
+![X-ray Denoised Output](images/output.png)
+![X-ray Denoised Output](images/output.png)
+![X-ray Denoised Output](images/output.png)
 
 ## 📜 License
 
