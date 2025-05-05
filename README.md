@@ -53,11 +53,9 @@ Install the required Python libraries:
 ## 📷 Output Preview
 
 The notebook will display all results side-by-side:
-Original Image
-NLM Denoised
-BM3D Denoised
-Wavelet Denoised
-Wiener Filtered
+[Output](images/output.png)
+[Output](images/output.png)
+[Output](images/output.png)
 
 ## 📜 License
 This project is intended for educational and research purposes only.
