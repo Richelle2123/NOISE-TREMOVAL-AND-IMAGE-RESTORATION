@@ -31,9 +31,7 @@ This project focuses on restoring real-world noisy grayscale medical images (e.g
 ## 🧪 Dependencies
 
 Install the required Python libraries:
-
-```bash
-pip install opencv-python matplotlib scikit-image bm3d
+`pip install opencv-python matplotlib scikit-image bm3d`
 
 
 ## 🚀 How to Run
