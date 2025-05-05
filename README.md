@@ -22,7 +22,8 @@ This project focuses on restoring real-world noisy grayscale medical images (e.g
 ```📂 medical-image-denoising/
 ├── xray_motion_blur.png # Input image with real noise
 ├── denoise_image.ipynb # Jupyter Notebook with implementation
-└── README.md # Project description file```
+└── README.md # Project description file
+```
 
 
 ---
