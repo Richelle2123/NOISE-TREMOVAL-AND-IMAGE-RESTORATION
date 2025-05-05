@@ -52,7 +52,11 @@ Install the required Python libraries:
 
 ## 📷 Output Preview
 
-![X-ray Denoised Output](Screenshot 2025-05-05 130915.png)
+![X-ray Denoised Output](output.png)
+
+![X-ray Denoised Output](output1.png)
+
+![X-ray Denoised Output](output2.png)
 
 ## 📜 License
 
