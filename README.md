@@ -54,9 +54,6 @@ Install the required Python libraries:
 
 ![X-ray Denoised Output](Screenshot 2025-05-05 130915.png)
 
-![X-ray Denoised Output](images/output.png)
-![X-ray Denoised Output](images/output.png)
-
 ## 📜 License
 
 This project is intended for educational and research purposes only.
