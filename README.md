@@ -50,14 +50,8 @@ Install the required Python libraries:
 | Wavelet Denoising | Preserves image structure, suppresses soft noise |
 | Wiener Filtering  | Effective for motion blur and linear noise       |
 
-## 📷 Output Preview
-
-The notebook will display all results side-by-side:
-(Screenshot 2025-05-05 130915.png)
-[Output](images/output.png)
-[Output](images/output.png)
-
 ## 📜 License
+
 This project is intended for educational and research purposes only.
 
 
