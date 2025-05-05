@@ -53,7 +53,7 @@ Install the required Python libraries:
 ## 📷 Output Preview
 
 The notebook will display all results side-by-side:
-[Output](Screenshot 2025-05-05 130915.png)
+(Screenshot 2025-05-05 130915.png)
 [Output](images/output.png)
 [Output](images/output.png)
 
